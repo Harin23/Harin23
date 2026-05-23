@@ -1,40 +1,31 @@
-<!--<img align="right" src="https://vercel.app" width="200"/>
--->
+<!-- Header -->
 <h3 align="center">
-
-![](https://vercel.app)
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
   Welcome!
-  <img src="https://giphy.com" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<img src="https://imgur.com" height="20" width="100%">
+<!-- Full-width divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://komarev.com" />
+<!-- Profile views badge (replace if you use a different badge service) -->
+<img src="https://komarev.com/ghpvc/?username=Harin23" alt="profile views" />
 
 <p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-<br/>
-<br/>
+- 🔭 I’m currently working as a Freelance AI/.NET Software Engineer.
+- 🌱 Follow my developer's journey on https://Harin23.com
+<br/><br/>
 </p>
 
 ## Stuff I did ⏳:
 </br>
 <p align="center"> 
-  <img src="https://vercel.app" width="445" />
-  <img src="https://vercel.app" alt="Harin23" width="390"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harin23&show_icons=true&theme=tokyonight&count_private=true" width="445" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harin23&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Harin23" width="390"/>
 </p>
 <br/>
 
 <p align="center"> 
-  <img src="https://herokuapp.com" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harin23&theme=blue-green" alt="streak stats" />
 </p>
-
-<!-- <p align="center"> 
-   <img src= "https://vercel.app" />
-</p> -->
-
-<!-- <br/> -->
