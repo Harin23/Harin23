@@ -1,11 +1,3 @@
-# Generates profile README assets (stats, streak, snake) and publishes to the dist branch.
-#
-# One-time setup (required for private contributions):
-# 1. GitHub profile → Contribution settings → enable "Include private contributions on my profile"
-# 2. Create a classic PAT with scopes: repo, read:user
-# 3. Add repo secret GH_PAT with the PAT value
-# 4. Run this workflow manually (workflow_dispatch) after pushing
-
 name: Generate profile assets
 
 on:
