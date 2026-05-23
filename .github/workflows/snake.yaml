@@ -22,14 +22,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=harin23&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true
           path: dist/stats.svg
           token: ${{ secrets.GH_PAT }}
 
       - name: Generate streak.svg
         uses: be-next/github-streak-stats-action@v1
         with:
-          username: harin23
+          username: ${{ github.repository_owner }}
           token: ${{ secrets.GH_PAT }}
           output-path: dist/streak.svg
           theme: prussian
@@ -38,7 +38,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: harin23
+          github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GH_PAT }}
           outputs: |
             dist/github-contribution-grid-snake.svg
