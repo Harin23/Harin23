@@ -22,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=prussian&hide_border=true&include_all_commits=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
           path: dist/stats.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -32,7 +32,7 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GH_PAT }}
           output-path: dist/streak.svg
-          theme: prussian
+          theme: tokyonight
           hide-border: true
 
       - name: Generate snake.svg
