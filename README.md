@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172f45,100:38a0ff&height=200&section=header&text=Hi%2C%20I%27m%20Harin&fontSize=42&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172f45,100:38a0ff&height=200&section=header&text=Software%20Engineer&fontSize=50&fontAlignY=38&desc=Problem%20Solver%20%7c%20Lifelong%20Learner&descAlignY=58&animation=twinkling" alt="Header" />
 
 <!-- Typing animation -->
 <p align="center">
