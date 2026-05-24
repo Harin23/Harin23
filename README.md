@@ -12,8 +12,8 @@
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harin23&show_icons=true&theme=tokyonight&count_private=true" width="445" alt="Harin23's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harin23&theme=tokyonight" width="445" alt="Harin23's GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harin23&show_icons=true&theme=tokyonight&count_private=true" width="400" alt="Harin23's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harin23&theme=tokyonight" width="400" alt="Harin23's GitHub Streak" />
 </p>
 
 ---
