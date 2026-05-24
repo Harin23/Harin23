@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx,git,python,c,java,js,ts,nodejs,react,express,redux,mongodb,mysql&perline=9" alt="Core tech stack" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx,git,python,c,c++,js,ts,nodejs,react,express,redux,mongodb,mysql,rabbitmq,kafka&perline=9" alt="Core tech stack" />
   </a>
 </p>
 
